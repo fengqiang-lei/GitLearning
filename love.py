@@ -1,5 +1,5 @@
 import time
-sentence = "Git, I love you !!!"
+sentence = "Git, I love you lol!!!"
 for char in sentence.split():
    allChar = []
    for y in range(12, -12, -1):
